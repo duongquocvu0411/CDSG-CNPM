@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-11-26T02:00:36.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Uhzbh1Ubyt-q8ZrT89CH" version="22.1.21" type="device">
+<mxfile host="Electron" modified="2024-11-26T03:20:00.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="IfHH5tDQ2h0OcXEPbDux" version="22.1.21" type="device">
   <diagram name="Page-1" id="Sa3PjpMdJ_gF2D_CngqN">
-    <mxGraphModel dx="521" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,10 +58,10 @@
         <mxCell id="oByy2wQYsLUBBG1j0j8f-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="oByy2wQYsLUBBG1j0j8f-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-6">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="oByy2wQYsLUBBG1j0j8f-33">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="oByy2wQYsLUBBG1j0j8f-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oByy2wQYsLUBBG1j0j8f-19" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -106,19 +106,19 @@
         <mxCell id="oByy2wQYsLUBBG1j0j8f-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oByy2wQYsLUBBG1j0j8f-1" target="oByy2wQYsLUBBG1j0j8f-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-1" value="Quản lý Tên cửa hàng" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-1" value="Quản lý Tên cửa hàng" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="580" y="260" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-2" value="Quản lý Banners" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-2" value="Quản lý Banners" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="580" y="330" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-1">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-2">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.696;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="oByy2wQYsLUBBG1j0j8f-19" target="ygEoYcgxXAFF0fWFpS0w-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ygEoYcgxXAFF0fWFpS0w-6" value="Quản lý menu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" vertex="1" parent="1">
+        <mxCell id="ygEoYcgxXAFF0fWFpS0w-6" value="Quản lý menu" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="580" y="420" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
